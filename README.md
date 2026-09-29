@@ -7,9 +7,7 @@ An end-to-end Machine Learning and Data Analytics project designed to assess, pr
 ## 🖼️ Dashboard Screenshots
 
 ### 1. Individual Application Risk Assessment
-![Individual Application Risk](app_risk.png)
-
----
+![Individual Application Risk Assessment](app_risk.png)
 
 ### 2. Dataset & Model Evaluation
 ![Dataset & Model Evaluation](dataset_eval.png)
@@ -18,23 +16,23 @@ An end-to-end Machine Learning and Data Analytics project designed to assess, pr
 
 ## 🚀 Overview
 
-The **Credit Risk Modeling Dashboard** helps financial institutions evaluate the default risk associated with individual loan applicants. Built with Python and Streamlit, it integrates trained Machine Learning models to analyze financial, demographic, and credit metrics, categorizing applications into risk tiers.
+The Credit Risk Modeling Dashboard helps financial institutions evaluate the default risk associated with individual loan applicants. Built with Python and Streamlit, it integrates trained Machine Learning models to analyze financial, demographic, and credit metrics, categorizing applications into risk tiers.
 
 ### Key Features:
-* **Interactive Risk Prediction:** Input applicant data and receive real-time risk evaluation scores.
-* **Probability & Risk Breakdown:** View calculated default probability percentages and decision status.
-* **Model Evaluation Dashboard:** Inspect overall model performance, confusion matrices, ROC curves, and feature importances.
-* **User-Friendly UI:** Clean, intuitive Streamlit interface for seamless data entry and analysis.
+- **Interactive Risk Prediction:** Input applicant data and receive real-time risk evaluation scores.
+- **Probability & Risk Breakdown:** View calculated default probability percentages and decision status.
+- **Model Evaluation Dashboard:** Inspect overall model performance, confusion matrices, ROC curves, and feature importances.
+- **User-Friendly UI:** Clean, intuitive Streamlit interface for seamless data entry and analysis.
 
 ---
 
 ## 🛠️ Tech Stack & Dependencies
 
-* **Language:** Python 3.8+
-* **Web Framework:** Streamlit
-* **Data Processing:** Pandas, NumPy
-* **Machine Learning:** Scikit-learn / XGBoost
-* **Data Visualization:** Matplotlib, Seaborn, Plotly
+- **Language:** Python 3.8+
+- **Web Framework:** Streamlit
+- **Data Processing:** Pandas, NumPy
+- **Machine Learning:** Scikit-learn / XGBoost
+- **Data Visualization:** Matplotlib, Seaborn, Plotly
 
 ---
 
