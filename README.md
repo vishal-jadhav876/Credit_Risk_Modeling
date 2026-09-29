@@ -6,11 +6,11 @@ An end-to-end Machine Learning and Data Analytics project designed to assess, pr
 
 ## 🖼️ Dashboard Screenshots
 
-### 1. Individual Application Risk Assessment
-![Individual Application Risk Assessment](app_risk.png)
-
-### 2. Dataset & Model Evaluation
+### 1. Dataset & Model Evaluation
 ![Dataset & Model Evaluation](dataset_eval.png)
+
+### 2. Individual Application Risk Assessment
+![Individual Application Risk Assessment](app_risk.png)
 
 ---
 
@@ -42,6 +42,6 @@ The Credit Risk Modeling Dashboard helps financial institutions evaluate the def
 Credit_Risk_Modeling/
 │
 ├── app.py              # Main Streamlit web application
-├── app_risk.png        # Screenshot: Individual Application Risk View
 ├── dataset_eval.png    # Screenshot: Model & Dataset Evaluation View
+├── app_risk.png        # Screenshot: Individual Application Risk View
 └── requirements.txt    # List of required Python packages
